@@ -1,6 +1,6 @@
 # DownloadsOrganizer
 ## Description  
-Organizes files of same type into folders  
+Organizes files of same type into folders:  
 - Compressed  
 - Documents  
 - Images  
@@ -21,4 +21,4 @@ Intended for organizing files in the downloads folder.
 This is only for educational purposes. Dending on the platform, python script may produce errors and result in file loss. Use it at your own risk.  
 
 ## License  
-Apache-2.0  
+Apache License 2.0  
