@@ -5,8 +5,8 @@ import json
 def main():
 
     # Load folders map
-    scrip_path = os.path.dirname(__file__)
-    with open(os.path.join(scrip_path,'folders_map.json')) as mfile:
+    script_path = os.path.dirname(__file__)
+    with open(os.path.join(script_path,'folders_map.json')) as mfile:
         folders_map = json.load(mfile)
 
     # Create extension map
